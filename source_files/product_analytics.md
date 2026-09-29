@@ -1,4 +1,4 @@
-<h1 align = 'center'> Product Analytics </h1>
+<h1 align = 'center'> Product Analytics (Template) </h1>
 <a href="https://karet.vercel.app/">
 <h1 align = 'center'> Karet </h1>
 </a>
@@ -7,12 +7,9 @@
 <h4 align='right'> Product Owner and Engineer: Lemon Confidence </h4>
 </a>
 
-# Table of Content
 
 
-
-
-# 7.0 Product Analytics Specification
+# 7.0 Product Analytics Specification (Template)
 
 Product analytics for <code>v1.3.0</code> is intended to establish measurable evidence of how users discover, adopt, and interact with the product capabilities included in the release.
 
