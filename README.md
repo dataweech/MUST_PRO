@@ -173,4 +173,4 @@ Successful implementation without reliable user outcomes, observability, or acce
 
 ## Final Outcome
 
-Refer to `final-directive.md` for the final release assessment, identified blockers, engineering remediation requirements, and release recommendation for Karet v1.3.0.
+Refer to `final-directive-v1.3.0.md` for the final release assessment, identified blockers, engineering remediation requirements, and release recommendation for Karet v1.3.0.
