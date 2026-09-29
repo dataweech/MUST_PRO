@@ -12,7 +12,7 @@
 >- 2.0 [Collaboration Permission Matrix](#20-collaboration-permission-matrix)
 >   - 2.1 [Collaboration Workflow Matrix](#21-collaboration-workflow-matrix)
 >- 3.0 [Permission Boundaries Matrix](#30-permission-boundary-matrix)
->- 4.0 [Plan × Role Validation Matrix](#40-plan-x-role-validation-matrix)
+>- 4.0 [Plan vs Role Validation Matrix](#40-plan-vs-role-validation-matrix)
 >- 5.0 [Analytics Event Ownership Matrix](#50-analytics-event-ownership-matrix)
 >- 6.0 [Memo](#60-memo)
 
@@ -93,7 +93,7 @@ This matrix is useful for audit evidence because it focuses on what must **not**
 | User attempts collaboration without invitation | Access denied     |
 
 
-# 4.0 Plan × Role Validation Matrix
+# 4.0 Plan vs Role Validation Matrix
 
 This is usually the most valuable matrix for release testing because it identifies all combinations requiring validation.
 
