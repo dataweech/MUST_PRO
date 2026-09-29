@@ -155,15 +155,23 @@ $$\text{Median TTFV Target} \le 120\text{ seconds}$$
 
 
 #### Multi-Player Collaboration Funnel
-* **Funnel Sequence:**  
-  `share_modal_opened` $\rightarrow$ `invitation_dispatched` $\rightarrow$ `invitation_accepted` $\rightarrow$ `document_opened` $\rightarrow$ `collaborative_edit`
+**Invite Delivery Rate**
 
-$$\text{Invite Delivery Rate} = \left( \frac{\text{invitation\_dispatched}}{\text{share\_modal\_opened}} \right) \times 100 \quad [\text{Target: } \ge 80\%]$$
+`(invitation_dispatched / share_modal_opened) × 100`
 
-$$\text{Viral Acceptance Rate} = \left( \frac{\text{invitation\_accepted}}{\text{invitation\_dispatched}} \right) \times 100 \quad [\text{Target: } \ge 50\%]$$
+Target: **≥ 80%**
 
-$$\text{Collab Edit Rate} = \left( \frac{\text{collaborative\_edit}}{\text{invitation\_accepted}} \right) \times 100 \quad [\text{Target: } \ge 40\%]$$
+**Viral Acceptance Rate**
 
+`(invitation_accepted / invitation_dispatched) × 100`
+
+Target: **≥ 50%**
+
+**Collaboration Edit Rate**
+
+`(collaborative_edit / invitation_accepted) × 100`
+
+Target: **≥ 40%**
 
 ### 6.5 Entitlement & RBAC Security Verification
 
