@@ -8,10 +8,13 @@
 </a>
 
 # Table of Content
->- 1.0 Plan Entitle Matrix
->- 2.0 Collaboration Permission Matrix
->   - 2.1 Collaboration Workflow Matrix
->- 3.0 Permission Boundaries Matrix
+>- 1.0 [Plan Entitlement Matrix](#10-plan-entitlement-matrix)
+>- 2.0 [Collaboration Permission Matrix](#20-collaboration-permission-matrix)
+>   - 2.1 [Collaboration Workflow Matrix](#21-collaboration-workflow-matrix)
+>- 3.0 [Permission Boundaries Matrix](#30-permission-boundary-matrix)
+>- 4.0 [Plan × Role Validation Matrix](#40-plan-x-role-validation-matrix)
+>- 5.0 [Analytics Event Ownership Matrix](#50-analytics-event-ownership-matrix)
+>- 6.0 [Memo](#60-memo)
 
 
 
